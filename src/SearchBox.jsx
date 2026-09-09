@@ -4,7 +4,7 @@ import "./SearchBox.css";
 import { useState } from 'react';
 
 export default function SearchBox({updateInfo}){
-    const API_URL = "http://api.openweathermap.org/geo/1.0/direct";
+    const API_URL = "https://api.openweathermap.org/geo/1.0/direct";
     const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/weather";
     const API_KEY = import.meta.env.VITE_OPENWEATHER_KEY;
 

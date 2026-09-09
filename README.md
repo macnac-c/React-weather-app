@@ -4,7 +4,7 @@ A simple weather app built with **React.js** that lets users search for a city a
 
 # Demo URL
 
-URL : 
+URL : https://macnac-c.github.io/React-weather-app/
 
 ## Features
 
